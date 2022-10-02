@@ -1,3 +1,9 @@
 git remote add origin https://github.com/alikeivanmarz/datafeaturestore2.git
 git branch -M main
 git push -u origin main
+
+git pull https://github.com/alikeivanmarz/datafeaturestore2.git
+git branch -M main
+git push -u origin main
+
+git push https://github.com/alikeivanmarz/datafeaturestore2.git

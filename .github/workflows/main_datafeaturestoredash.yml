@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'datafeaturestoredash'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0FA13EF61ACF4CDFB3510090CAE04A20 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_836824396AE441EAA3AE8A6A2332C987 }}

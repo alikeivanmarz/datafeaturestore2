@@ -1,0 +1,13 @@
+jupyter
+matplotlib
+seaborn
+pandas
+numpy
+dash
+xlrd
+openpyxl
+plotly
+kaleido
+networkx
+gunicorn
+statsmodels
